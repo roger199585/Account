@@ -1,4 +1,0 @@
-module CHTTP {
-    umbrella "/Users/corn/Project/Account/.build/checkouts/vapor.git-5492988889259800272/Sources/CHTTP/include"
-    export *
-}
