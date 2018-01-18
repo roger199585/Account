@@ -1,0 +1,14 @@
+.category.divider {
+    margin-left: 4px !important;
+    margin-right: 4px !important;
+}
+  
+.category.divider:after {
+    content: '|';
+}
+
+.ui.card > .ui.attached.button {
+    width: 100%;
+    margin: 0;
+    box-shadow: none !important;
+}
